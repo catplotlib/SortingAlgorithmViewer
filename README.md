@@ -28,8 +28,8 @@ Navigate to the cloned repository:
 
 ```bash
 cd sorting-visualizer
-Install the required dependencies:
 ```
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
