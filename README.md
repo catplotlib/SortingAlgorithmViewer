@@ -2,10 +2,7 @@
 
 This Sorting Algorithm Visualizer is a GUI application built with Tkinter in Python. It allows users to visualize different sorting algorithms in action and understand their time complexities.
 
-<video width="320" height="240" controls>
-  <source src="demo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](demo.mov)
 
 
 ## Features
